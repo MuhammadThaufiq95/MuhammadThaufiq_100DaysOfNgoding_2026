@@ -35,6 +35,9 @@ public class Day001 {
         // static: method dapat dijalankan tanpa membuat objek dari class
         // void: method tidak mengembalikan nilai
         // (String[] args): parameter untuk menerima argumen dari command line
+
+        //Untuk menampilkan teks
+        System.out.println("Hello World");
     }
     
 }
