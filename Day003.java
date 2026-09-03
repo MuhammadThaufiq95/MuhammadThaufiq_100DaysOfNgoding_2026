@@ -69,7 +69,7 @@ public class Day003 {
         /*
         kenapa \s dibutuhkan di text block?
         Karena text block otomatis "strip" trailing whitespace di tiap baris,
-        jadi \s dipakai untuk MEMAKSA spasi teta[ ada di akhir baris.
+        jadi \s dipakai untuk MEMAKSA spasi tetap ada di akhir baris.
         */
                            
     }
