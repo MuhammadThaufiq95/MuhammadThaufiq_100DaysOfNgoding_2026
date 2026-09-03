@@ -42,7 +42,7 @@ public class Day002 {
         printf()
         [untuk berformat output]
         */
-        System.out.printf("Tinggi badan  : %1f cm%n", tinggiBadan);
+        System.out.printf("Tinggi badan  : %.1f cm%n", tinggiBadan);
         System.out.printf("Berat badan   : %d kg%n", beratBadan);
         
         System.out.println("=========================");
