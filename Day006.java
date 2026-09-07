@@ -1,5 +1,5 @@
 /*
- * Day 6: Using Character data type, such as char and boolean
+ * Day 6: Using Character data type and boolean data type, such as char and boolean
  */
 package pkg100daysofngoding;
 
