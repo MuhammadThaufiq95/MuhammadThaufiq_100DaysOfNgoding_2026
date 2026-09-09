@@ -1,5 +1,5 @@
 /*
- * Day 7: Declaration, Initialization and variable update.
+ * Day 8: Declaration, Initialization and variable update.
  */
 package pkg100daysofngoding;
 
