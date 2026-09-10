@@ -41,7 +41,7 @@ public class Day009 {
         kota = "Berlin, Svelbard, Birmingham, Bratislava";
         
         System.out.println("\n\nJarak         : "+range+"km");
-        System.out.println("Luas Lingkaran: "+ip);
+        System.out.println("Luas Lingkaran: "+pi);
         System.out.println("Kota          : "+kota);
         
     }
