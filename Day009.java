@@ -27,7 +27,7 @@ public class Day009 {
         
         //constanta (final variable):
         final int range; //constanta int.
-        final double ip; //constanta double.
+        final double pi; //constanta double.
         final String kota; //constanta string.
         
         /*
@@ -37,7 +37,7 @@ public class Day009 {
         
         //menyimpan data sebagai constanta:
         range = 420;
-        ip = 3.14159;
+        pi = 3.14159;
         kota = "Berlin, Svelbard, Birmingham, Bratislava";
         
         System.out.println("\n\nJarak         : "+range+"km");
