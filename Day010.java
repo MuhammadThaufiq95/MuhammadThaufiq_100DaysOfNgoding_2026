@@ -30,6 +30,6 @@ public class Day010 {
         System.out.println("double: " + Double.MIN_VALUE + " s/d " + Double.MAX_VALUE);
 
         //batas minimal dan maksimal char
-        System.out.println("Char  : " + Character.MIN_VALUE + " s/d " + Character.MAX_VALUE);
+        System.out.println("Char  : " + (int) Character.MIN_VALUE + " s/d " + (int) Character.MAX_VALUE);
     }
 }
