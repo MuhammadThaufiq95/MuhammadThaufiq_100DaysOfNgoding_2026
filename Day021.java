@@ -32,5 +32,6 @@ public class Day021 {
         System.out.println("Height        : "+hasil+"m");
         System.out.println("Student Status: "+statusAfter);
         
+        sc.close();
     }
 }
