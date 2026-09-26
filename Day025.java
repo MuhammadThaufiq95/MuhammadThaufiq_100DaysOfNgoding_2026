@@ -21,5 +21,7 @@ public class Day025 {
         double hasil = pi * rusuk * rusuk;
         
         System.out.println("\nHasil\t\t: "+hasil);
+
+        sc.close();
     }
 }
