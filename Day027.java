@@ -1,6 +1,5 @@
 /*
- * Day 26: increment dan decrement
- * Day 27: comparison operator [==] and [!=]
+ * Day 27: increment dan decrement
  */
 package pkg100daysofngoding;
 
@@ -13,9 +12,6 @@ import java.util.Scanner;
 public class Day027 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
-        //Day 26: Increment & Decrement
-        
         int number = sc.nextInt();
         
         System.out.println("Awal: "+number);
