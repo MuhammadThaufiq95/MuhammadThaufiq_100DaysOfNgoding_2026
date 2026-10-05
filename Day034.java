@@ -25,5 +25,6 @@ public class Day034 {
         } else {
             System.err.println("Gagal");
         }
+        sc.close();
     }
 }
