@@ -32,7 +32,7 @@ public class Day038 {
         System.out.println("2."+produk2+"             / "+harga2+satuan1);
         System.out.println("3."+produk3+" / "+harga3+satuan1);
         System.out.println("4."+produk4+"              / "+harga4+satuan2);
-        System.out.println("5"+produk5+"            / "+harga5+satuan2);
+        System.out.println("5."+produk5+"            / "+harga5+satuan2);
         
         System.out.print("Choose product: ");
         int pilihan = sc.nextInt();
