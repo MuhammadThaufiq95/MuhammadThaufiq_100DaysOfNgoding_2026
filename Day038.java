@@ -65,7 +65,6 @@ public class Day038 {
             namaProduk = "Unknown";
             harga = 0;
             satuan = "Unknown";
-            System.err.println("Option not available!");
         }
         
         if (pilihan >= 1 && pilihan <= 5) {
@@ -81,7 +80,7 @@ public class Day038 {
                 System.err.println("\nInvalid Input.");
             }
         } else {
-            System.err.println("\nInvalid product");
+            System.err.println("\nOption not available!");
         }
         sc.close();
     }
