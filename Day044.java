@@ -17,7 +17,7 @@ public class Day044 {
         
         if (nilai > 90) {
             System.out.println("A");
-        } else if (nilai <= 90 && nilai >= 85) {
+        } else if (nilai <= 90 && nilai > 85) {
             System.out.println("B");
         } else if (nilai <= 85 && nilai > 75) {
             System.out.println("C");
