@@ -15,7 +15,7 @@ public class Day044 {
         
         int nilai = sc.nextInt();
         
-        if (nilai >= 90) {
+        if (nilai > 90) {
             System.out.println("A");
         } else if (nilai <= 90 && nilai >= 85) {
             System.out.println("B");
