@@ -31,7 +31,6 @@ public class Day045 {
                 break;
             default:
                 System.err.println("Default");
-                throw new AssertionError();
         }
         sc.close();
     }
