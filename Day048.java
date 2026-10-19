@@ -52,18 +52,27 @@ public class Day048 {
                 System.out.println("Masukkan dua angka: ");
                 a = sc.nextInt();
                 b = sc.nextInt();
-                double hasil = (double) a / b;
-                System.out.printf("\n%d / %d = %.2f%n", a, b, hasil);
+                if (b != 0) {
+                    double hasil = (double) a / b;
+                    System.out.printf("\n%d / %d = %.2f%n", a, b, hasil);
+                } else {
+                    System.err.println("\nERROR: Cannot divide by 0");
+                }
                 break;
             case 5:
                 System.out.println("\n----- modulo -----");
                 System.out.println("masukkan dua angka: ");
                 a = sc.nextInt();
                 b = sc.nextInt();
-                System.out.println("\n"+a+" % "+b+" = "+(a % b));
+                if (b != 0) {
+                    System.out.println("\n"+a+" % "+b+" = "+(a % b));
+                } else {
+                    System.err.println("\nERROR: Cannot perform modulo with 0");
+                }
                 break;
             default:
                 System.err.println("ERROR: Invalid input");
         }
+        sc.close();
     }
 }
