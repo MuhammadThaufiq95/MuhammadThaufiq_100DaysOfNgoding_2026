@@ -61,6 +61,7 @@ public class Day055 {
                 return;
             }
         }
+        System.out.println();
         System.out.println("This is invisible");
     }
 }
