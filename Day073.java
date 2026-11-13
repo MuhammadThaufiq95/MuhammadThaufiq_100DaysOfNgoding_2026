@@ -1,5 +1,5 @@
 /*
- * (Latihan) do-while: creating a recurring menu
+ * Day 73: (Latihan) do-while: creating a recurring menu
  */
 package pkg100daysofngoding;
 
