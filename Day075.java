@@ -36,5 +36,6 @@ public class Day075 {
         } else {
             System.out.println("\nRegistration success, hi "+nama);
         }
+        sc.close();
     }
 }
